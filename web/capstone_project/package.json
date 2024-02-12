@@ -1,0 +1,17 @@
+{
+  "name": "sullivan_project_i-dle",
+  "version": "1.0.0",
+  "description": "Demo: https://swimjiy.github.io/sullivan_project_I-dle/",
+  "main": "script.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
